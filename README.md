@@ -1,1 +1,1 @@
-# financas
+# Aplicativo de Controle Financeiro
